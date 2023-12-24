@@ -1,0 +1,2 @@
+Hello!
+Admissions are open!
